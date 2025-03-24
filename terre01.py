@@ -9,7 +9,3 @@ indication_valeur2 = ord("z")  # valeur numérique = quelle lettre
 for i in range(97, 123):
     print(chr(i), end="")
 print("\n")
-
-
-
-#
